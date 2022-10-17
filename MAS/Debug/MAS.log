@@ -1,0 +1,6 @@
+﻿  edge_face.cpp
+E:\ProgramDemo\VS2019\MAS\MAS\edge_face.cpp(58,30): warning C4018: “<”: 有符号/无符号不匹配
+E:\ProgramDemo\VS2019\MAS\MAS\edge_face.cpp(85,28): warning C4018: “<”: 有符号/无符号不匹配
+E:\ProgramDemo\VS2019\MAS\MAS\edge_face.cpp(126,30): warning C4018: “<”: 有符号/无符号不匹配
+E:\ProgramDemo\VS2019\MAS\MAS\edge_face.cpp(155,26): warning C4018: “<”: 有符号/无符号不匹配
+  MAS.vcxproj -> E:\ProgramDemo\VS2019\MAS\Debug\MAS.exe

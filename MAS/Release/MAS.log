@@ -1,0 +1,19 @@
+﻿  main.cpp
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(25,61): warning C4316: “SE::SeVector<float,-1>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(37,43): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(37,49): warning C4316: “SE::SeVector<int,4>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(40,43): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(40,49): warning C4316: “SE::SeVector<int,4>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(46,36): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(65,56): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(81,41): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(86,65): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(107,51): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(107,57): warning C4316: “SE::SeVector<float,-1>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(110,58): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(110,64): warning C4316: “SE::SeVector<float,-1>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\MAS\MAS\main.cpp(115,35): warning C4305: “参数”: 从“double”到“float”截断
+Release\edge_face.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  已完成代码的生成
+  MAS.vcxproj -> E:\ProgramDemo\VS2019\MAS\Release\MAS.exe
